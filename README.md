@@ -11,6 +11,6 @@ After more than 15 years, I concluded that I’m still around in the infosec are
 - 📄 publications: [maggi.cc/publications](https://maggi.cc/publications)
 - 🗣 talks: [maggi.cc/talks](https://maggi.cc/talks)
 - 📡 [RFQuack](https://github.com/rfquack), the versatile RF-analysis tool that quacks! 
-- 📶 [Capture the Signal](https://github.com/capturethesignal)
+- 📶 [Capture the Signal](https://github.com/capturethesignal), an RF capture the flag framework!
 
 For more details, please visit https://maggi.cc
