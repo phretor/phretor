@@ -37,7 +37,7 @@ engaging, and memorable talks.
 
 ### More
 
-- 📓 [/talks](https://trustial.org/blog)
+- 📓 [/blog](https://trustial.org/blog)
 - 📄 [/publications](https://trustial.org/publications)
 - 🗣 [/talks](https://trustial.org/talks)
 
